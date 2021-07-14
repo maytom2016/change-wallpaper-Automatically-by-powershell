@@ -9,5 +9,5 @@
 If you encounter a file XXX. PS1 that cannot be loaded, 
 because scripting is always prohibited on this system. 
 Because the Windows default Restricted policy does not allow any scripts to be executed. 
-Change the method to search yourself! 
+the method of change it you can google yourself! 
 Anyone who can find something on GitHub doesn't be a rookie.
