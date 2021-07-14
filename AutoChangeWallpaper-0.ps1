@@ -24,7 +24,6 @@
   $ret = [Params]::SystemParametersInfo($SPI_SETDESKWALLPAPER, 0, $Image, $fWinIni)
   }
   
-
  $Wallpaperfilefolder='C:\Users\Administrator\Pictures\' 
  #壁纸文件夹    
  #the wallpaper url
