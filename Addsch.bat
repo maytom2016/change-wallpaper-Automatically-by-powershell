@@ -1,7 +1,7 @@
 @echo off
 set "path1=%CD%\HideAcWp.vbs"  
-echo %path1%                                 rem »»±ÚÖ½µÄÂ·¾¶
-set "hour=1"                                    rem Ã¿Ğ¡Ê±»»Ò»´Î
+echo %path1%                                 rem æ¢å£çº¸çš„è·¯å¾„
+set "hour=1"                                 rem æ¯å°æ—¶æ¢ä¸€æ¬¡
 schtasks.exe /create /tn "AutoChangeWallpapertest" /tr %path1% /sc HOURLY /mo 1 /f
-echo ´´½¨³É¹¦£¬Çë¼ì²é...
+echo åˆ›å»ºæˆåŠŸï¼Œè¯·æ£€æŸ¥...
 pause
