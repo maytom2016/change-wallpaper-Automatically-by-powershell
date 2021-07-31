@@ -1,1 +1,0 @@
-CreateObject("WScript.Shell").Run "PowerShell -File  AutoChangeWallpaper.ps1",0
