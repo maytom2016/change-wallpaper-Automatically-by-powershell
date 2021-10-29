@@ -5,9 +5,11 @@ step1:download it to your computer,and put it anywhere you wish,unzip it.
 
 step2:change url in the file named AutoChangeWallpaper.ps1 to your url of wallpaper.
 
+![Image text](https://github.com/maytom2016/change-wallpaper-Automatically-by-powershell/blob/main/step2.jpg)
+
 step3:double click Addsch.bat to run it.and you will find autochangewallpaper in task.it will automatically change wallpaper once a hour(if you want to adjust,you can open Addsch.bat to self-defined).
 
-
+![Image text](https://github.com/maytom2016/change-wallpaper-Automatically-by-powershell/blob/main/step3-0.png)
 
 只需3步即可完成。
 
