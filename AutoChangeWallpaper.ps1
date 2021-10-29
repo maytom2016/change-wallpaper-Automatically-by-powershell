@@ -24,7 +24,7 @@
   $ret = [Params]::SystemParametersInfo($SPI_SETDESKWALLPAPER, 0, $Image, $fWinIni)
   }
   
- $Wallpaperfilefolder='C:\Users\Administrator\Pictures\' 
+ $Wallpaperfilefolder='C:\Users\administrator\Pictures\桌面背景\' 
  #壁纸文件夹    
  #the wallpaper url
  $Filelist=Get-ChildItem  $Wallpaperfilefolder -filter *.*g 
@@ -35,4 +35,4 @@
  #随机选一个图片文件 ramdon choose a  wallpaper file
  Set-Wallpaper ($Wallpaperfilefolder + $Filelist[$Randomnum].name)
  #更换壁纸 
- #switch wallpaper 
+ #change wallpaper
