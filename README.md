@@ -1,3 +1,4 @@
+**English** | [中文](https://github.com/maytom2016/change-wallpaper-Automatically-by-powershell/blob/main/%E8%AF%BB%E6%88%91%E4%B8%AD%E6%96%87.md)
 # change-wallpaper-Automatically-by-powershell
 only 3 step you can finish it.
 
@@ -11,13 +12,6 @@ step3:double click Addsch.bat to run it.and you will find autochangewallpaper in
 
 ![Image text](https://github.com/maytom2016/change-wallpaper-Automatically-by-powershell/blob/main/step3-0.png)
 
-只需3步即可完成。
-
-第1步：把它下载到你的电脑上，然后把它放在你想要的任何地方，解压它。
-
-第2步：将名为AutoChangewallpaper.ps1的文件中的ur1更改为您的墙纸url。
-
-第3步：双击Addsch.bat运行它，你会在任务中找到autochangewallpaper。它会每小时自动更换一次壁纸（如果要调整，可以打开Addsch.bat自定义）。
 
 ---
 note:
@@ -27,7 +21,3 @@ Because the Windows default Restricted policy does not allow any scripts to be e
 the way to change it you can google yourself! 
 Anyone who can find something on GitHub doesn't be a rookie.
 
-注意：
-如果遇到无法加载文件 xxx.ps1, 因为在此系统总禁止执行脚本。
-是因为windows默认的Restricted策略是不允许任何脚本执行的。
-更改方法自己搜索吧！都能到github找东西的都不菜。
